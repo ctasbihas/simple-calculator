@@ -1,4 +1,4 @@
-@media (max-width: 540px) {
+@media (max-width: 540px) and (min-width: 100px) {
     body {
     font-family: 'Open sans', 'Sans-Serif';
     background-color: rgba(0, 0, 0, 0.19);
