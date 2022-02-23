@@ -1,4 +1,4 @@
-@media (max-width: 600px) {
+/* @media (max-width: 600px) and (min-width: 200px){ */
     body {
     font-family: 'Open sans', 'Sans-Serif';
     background-color: rgba(0, 0, 0, 0.19);
@@ -97,4 +97,4 @@ button:nth-child(20) {
 .number:hover {
     background-color: #a1a1a12d;
 }
-}
+/* } */
